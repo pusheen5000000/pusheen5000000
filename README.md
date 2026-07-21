@@ -1,6 +1,6 @@
 ## ᓚ₍⑅^..^₎
 . .╭───────────── ✦ ⁺ <br>
-. .┊ ◟﹫ Hello!! My name is Jenny! Website: jennybian.com <br> 
+. .┊ ◟﹫ Hello!! My name is Jenny! Website: <a href="https://jennybian.com" target="_blank">jennybian.com</a> <br>
 . .┊ ⨳゛I'm passionate about coding, AI, machine learning, game development, psychology, and lots more! <br>
 . .┊﹒𐐪 I love cats and drawing in my free time :) <br>
 . .┊ꜝꜝ﹒My pronouns are she/her <br>
